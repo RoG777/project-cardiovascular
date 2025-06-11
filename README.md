@@ -57,5 +57,5 @@ npm start
 ### Backend
 - Node.js
 - Express
-- MongoDB
+- Postgre
 - Mongoose 
