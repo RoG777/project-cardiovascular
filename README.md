@@ -13,7 +13,7 @@ El proyecto está dividido en dos partes principales:
 
 - Node.js (versión 14 o superior)
 - npm (incluido con Node.js)
-- MongoDB (para la base de datos)
+- Postgre (para la base de datos)
 
 ## Instalación
 
